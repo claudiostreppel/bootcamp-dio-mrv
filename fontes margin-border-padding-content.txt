@@ -1,0 +1,15 @@
+
+
+
+Fontes
+
+*** web-safe-fonts*** são chamadas assim pq se encontram na maioria dos dispositivos
+font-family - Altera a fonte do texto
+font-size - Altera o tamanho do texto
+font-style - Altera a aparencia do texto. Se a fonte não tiver suporte ao italico, o navegador vai forçar um italico e pode não ficar tão bonito.
+font-weight- Altera o peso da fonte
+text-transform- Altera o texto para maiusculo (uppercase), minusculo (lowercase), capitalize (deixa a primeira letra de cada palavra em maiuscula)
+text-decoration- underline(coloca uma linha abaixo) overline(uma linha acima) line-trough(coloca uma linha ao centro, cortando a palavra)
+
+
+

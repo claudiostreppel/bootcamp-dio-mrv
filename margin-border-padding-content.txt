@@ -1,6 +1,0 @@
-Margin: Espaçamento entre os elementos
-Border: circula o padding e o content(conteudo) e pode ser manipulado com linhas, estilos e cor das linhas.
-Padding: Espaçamento entre a borda e o conteudo
-Content: Conteudo da tag, o texto, imagem, audio  ou video que será mostrado na pagina.
-
-
