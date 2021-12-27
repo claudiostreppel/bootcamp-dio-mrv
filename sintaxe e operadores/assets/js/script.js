@@ -1,6 +1,6 @@
 // código criado por mim
 
-/*let num1 = Number(prompt('Digite o primeiro número....:  '))
+let num1 = Number(prompt('Digite o primeiro número....:  '))
 let num2 = Number(prompt('Digite o segundo numero.....:  '))
 let resultado = document.getElementById('resultado')
 function soma() {
@@ -19,7 +19,7 @@ function soma() {
         resultado.innerText = (`Os números ${num1} e ${num2} são iguais. O resultado da sua soma é ${resultado1} e é maior que 10 e maior ou igual a 20`)
     }
 }
-soma()*/
+soma()
 
 // código criado pela instrutora Stephany 
 /*function comparaNumeros(num1, num2) {
