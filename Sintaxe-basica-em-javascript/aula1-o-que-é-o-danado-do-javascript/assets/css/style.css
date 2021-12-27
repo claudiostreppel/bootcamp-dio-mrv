@@ -1,0 +1,14 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgb(199, 168, 228);
+  background: rgb(191, 144, 235);
+  color: blueviolet;
+  box-shadow: 1px 1px 2px purple;
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+}
