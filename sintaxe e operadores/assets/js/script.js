@@ -1,9 +1,10 @@
 // código criado por mim
-
+/*
 let num1 = Number(prompt('Digite o primeiro número....:  '))
 let num2 = Number(prompt('Digite o segundo numero.....:  '))
 let resultado = document.getElementById('resultado')
 function soma() {
+    if (!num1 || !num2) { resultado.innerText = ('Você deve digitar somente numeros') }
     let resultado1 = num1 + num2
     if (num1 === num2 && resultado1 >= 10 && resultado1 < 20) {
         resultado.innerText = (`Os números digitados ${num1} e ${num2} são iguais. O resultado da sua soma é ${resultado1} maior que 10 e menor que 20`)
@@ -20,8 +21,8 @@ function soma() {
     }
 }
 soma()
-
-// código criado pela instrutora Stephany 
+*/
+// código criado pela instrutora Stephany
 /*function comparaNumeros(num1, num2) {
 	const primeiraFrase = criaPrimeiraFrase(num1, num2);
 	const segundaFrase = criaSegundaFrase(num1, num2);
@@ -57,3 +58,4 @@ function criaSegundaFrase(num1, num2) {
 }
 
 console.log(comparaNumeros(11, 20));*/
+
